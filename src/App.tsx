@@ -1,10 +1,15 @@
 import './App.css'
+import { Content } from './layout/content/content'
+import { Sidebar } from './layout/sidebar/sidebar'
 
 function App() {
 
   return (
     <>
-     <div className='bg-black h-[100vh]'>sdasds</div>
+      <div className="flex min-h-[100vh] w-full">
+        <Sidebar  />
+        <Content />
+      </div>
     </>
   )
 }

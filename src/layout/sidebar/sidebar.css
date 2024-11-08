@@ -1,0 +1,19 @@
+
+.sidebar-change {
+    margin-left: -260px;
+}
+.info-img {
+    width: 48px;
+    height: 48px;
+    overflow: hidden;
+    overflow: hidden;
+    border-radius: 100%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  }
+
+  .nav-link.active {
+    background-color: var(--clr-pumpkin);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 20px 25px -5px,
+      rgba(0, 0, 0, 0.04) 0px 10px 10px -5px;
+  }
+  

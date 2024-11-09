@@ -1,6 +1,7 @@
 
 .sidebar-change {
     margin-left: -260px;
+    transition: 0.5s ease-in-out;
 }
 .info-img {
     width: 48px;

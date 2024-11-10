@@ -8,7 +8,7 @@ export default {
     extend: {
       colors: {
         primary: 'var(--clr-primary)',
-        primaryLight: 'var(--clr-primary-light)',
+        primaryLight: '#473b33',
         secondary: 'var(--clr-secondary)',
         white: 'var(--clr-white)',
         black: 'var(--clr-black)',
